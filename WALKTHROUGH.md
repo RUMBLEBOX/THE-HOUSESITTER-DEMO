@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 # THE HOUSESITTER - DEMO: WALKTHROUGH
 
 PART ONE: UNLOCKING THE FRONT DOOR 
