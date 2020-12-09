@@ -10,8 +10,8 @@ PART TWO: PUTTING AWAY THE SUITCASE:
 ------------------------------------  
 Open the hatch  
 Take the suitcase  
-Go North 
 Go North  
+Go North 
 Go East  
 Go East  
 Put suitcase in closet 
